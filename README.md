@@ -7,7 +7,6 @@ It will track your face, give you a nice little random flag on top of your head 
 
 Now, here is the trick. If you want it to always show home as the predicted place to travel too you should use --unlock_home when calling the script in terminal.
 
-![yo 4_29_2020 4_31_29 PM](https://user-images.githubusercontent.com/47258547/80616887-5611d680-8a39-11ea-8737-a352b83c32bd.png)
 
 If you want to use this with your android phone as an external camera. You need to install ipwebcam on your phone
 and have both your computer and phone on the same wifi.
