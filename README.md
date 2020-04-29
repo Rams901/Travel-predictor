@@ -19,7 +19,8 @@ country name. You don't want the program to say Congragulations! you're going to
 
 Dependencies:
 opencv-python
-you can dowload it using pip:
+you can dowload it using pip
+
 pip install opencv-python
 
 
