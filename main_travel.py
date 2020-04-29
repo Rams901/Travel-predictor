@@ -3,14 +3,10 @@ import cv2
 import numpy as np
 import random
 
-
 import os
 import argparse
 
 import datetime
-
-
-
 
 def main(config):
     
