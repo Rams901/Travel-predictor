@@ -16,7 +16,7 @@ Then, you can just add the --ipwebcam <link to local stream/video> which you'll 
 started the server on your phone.
 
 You can also enable recording a video by using --enable_record in terminal.
-This is just a quick fun app to use.
+--out_path enables you to choose the path and name for the recorded video
 
 You can add asmany countries as you want, do put them in the images folder and make sure to rename them as a proper
 country name. You don't want the program to say Congragulations! you're going to  dlknsdfjksndfjqnflnsf-img
