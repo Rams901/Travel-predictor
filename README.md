@@ -24,7 +24,7 @@ Dependencies:
 opencv-python
 you can dowload it using pip
 
-pip install opencv-python (run this in terminal or anaconda prompt)
+pip install opencv-python (run this in terminal or in anaconda prompt)
 
 
 
