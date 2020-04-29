@@ -1,5 +1,7 @@
 # Travel-predictor
 This is a simple random travel predictor just for fun. Where are you heading this summer?
+
+
 It will track your face, give you a nice little random flag on top of your head and randomly pick a place you'll travel to in 2020. 
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/47258547/80616583-ffa49800-8a38-11ea-9e83-b2081ed8cc48.gif)
