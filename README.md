@@ -17,6 +17,7 @@ started the server on your phone.
 
 You can also enable recording a video by using --enable_record in terminal.
 This is just a quick fun app to use.
+
 You can add asmany countries as you want, do put them in the images folder and make sure to rename them as a proper
 country name. You don't want the program to say Congragulations! you're going to  dlknsdfjksndfjqnflnsf-img
 
